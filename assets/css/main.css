@@ -684,6 +684,13 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.time{
+			display: inline-block;
+    		width: 40%;
+    		margin: 1rem 1rem;
+    		border-radius: inherit;
+		}
+
 		@media screen and (max-width: 736px) {
 
 			.image.main {
